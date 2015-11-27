@@ -1,0 +1,4 @@
+Django
+django-restify
+django-cors-headers
+Pillow
