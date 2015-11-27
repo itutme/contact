@@ -4,7 +4,7 @@ import uuid
 from rest_framework import serializers
 from django.core.files.base import ContentFile
 
-from pm.models import Contact
+from contact.models import Contact
 
 
 class Base64ImageField(serializers.ImageField):
